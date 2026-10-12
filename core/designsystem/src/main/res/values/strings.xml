@@ -1,0 +1,175 @@
+<resources>
+    <string name="s_720a3fcc0b" formatted="false"> · Offline</string>
+    <string name="s_79e8d998c6" formatted="false">%.1f MB</string>
+    <string name="s_e739f5005f" formatted="false">CC BY-NC 2.5 · Title search checks browsed pages; number search covers the full archive.</string>
+    <string name="s_53b2ed144f" formatted="false">HTTPS URL of a publisher catalog with a license and images. See the project README for the format.</string>
+    <string name="s_96f3f9cd8f" formatted="false">xkcd provides recent releases. Its API has no popularity rankings or genre filters.</string>
+    <string name="s_89c8997ebe" formatted="false">Automatically open the next chapter</string>
+    <string name="s_42de3af6ab" formatted="false">Automatic updates</string>
+    <string name="s_d34652d24c" formatted="false">Landscape</string>
+    <string name="s_740adacfc2" formatted="false">Each archive becomes a chapter. Use the same series name to import multiple chapters.</string>
+    <string name="s_ff37c4c3bc" formatted="false">No ads, analytics, or required account. Network requests go only to selected sources.</string>
+    <string name="s_d659e27ebe" formatted="false">Library</string>
+    <string name="s_7af3cf32d3" formatted="false">Library and notifications</string>
+    <string name="s_2001daafb9" formatted="false">Library, categories, history, reading positions, journal, sources, and settings. Tormang v1 format.</string>
+    <string name="s_d411b40c25" formatted="false">Add to library</string>
+    <string name="s_b22a2454bd" formatted="false">Queued</string>
+    <string name="s_9c6fa10700" formatted="false">Your Tormang</string>
+    <string name="s_503949b8a6" formatted="false">Your reading history starts here</string>
+    <string name="s_ab4df6d460" formatted="false">A home for your favorite stories</string>
+    <string name="s_9a23163907" formatted="false">Keep your stories with you</string>
+    <string name="s_a7bc1e17bd" formatted="false">Webtoon</string>
+    <string name="s_265da16fcf" formatted="false">Webtoon · continuous</string>
+    <string name="s_b9ebbe5d3f" formatted="false">Vertical</string>
+    <string name="s_f8122fe0b2" formatted="false">Vertical · paged</string>
+    <string name="s_3acc0c2ed7" formatted="false">Internal app storage</string>
+    <string name="s_07c7b8b814" formatted="false">Resume</string>
+    <string name="s_81da75b754" formatted="false">Take your stories with you</string>
+    <string name="s_76f55a988f" formatted="false">Restore</string>
+    <string name="s_96518ab209" formatted="false">Restore data?</string>
+    <string name="s_7075d62db0" formatted="false">You are all caught up</string>
+    <string name="s_ee2d903c84" formatted="false">Choose CBZ / ZIP</string>
+    <string name="s_9a6e498b21" formatted="false">Select all</string>
+    <string name="s_84f415b543" formatted="false">No chapters yet</string>
+    <string name="s_f8711e1f7f" formatted="false">Chapter unavailable</string>
+    <string name="s_e81522110e" formatted="false">Chapter complete</string>
+    <string name="s_461d03b039" formatted="false">Chapters ↑</string>
+    <string name="s_1607f2f187" formatted="false">Chapters ↓</string>
+    <string name="s_a1ebff5899" formatted="false">Horizontal</string>
+    <string name="s_ef05d57959" formatted="false">Done</string>
+    <string name="s_9b65313adf" formatted="false">Data restored</string>
+    <string name="s_c90dfb52ea" formatted="false">Date added</string>
+    <string name="s_debaf6c069" formatted="false">Dynamic colors</string>
+    <string name="s_309dd1287b" formatted="false">Applies to new download jobs and background updates</string>
+    <string name="s_bd7432a05f" formatted="false">Reading journal</string>
+    <string name="s_c24d5c13e8" formatted="false">Add catalog</string>
+    <string name="s_29173e392a" formatted="false">Add a title from a catalog or import your own CBZ / ZIP files.</string>
+    <string name="s_2071fb9905" formatted="false">More</string>
+    <string name="s_7a28461e38" formatted="false">Genre (leave empty for all)</string>
+    <string name="s_a137dd0ef7" formatted="false">Load more</string>
+    <string name="s_111213e773" formatted="false">Downloading</string>
+    <string name="s_737a6aa274" formatted="false">Downloads</string>
+    <string name="s_fa125e56d9" formatted="false">Downloads and storage</string>
+    <string name="s_a7a4033657" formatted="false">Close</string>
+    <string name="s_04a18b51cd" formatted="false">Notes</string>
+    <string name="s_e4c1d01c5c" formatted="false">Favorites</string>
+    <string name="s_7c7406202d" formatted="false">Change your query or browse the next page.</string>
+    <string name="s_4cd0366bdf" formatted="false">Change layout</string>
+    <string name="s_6e5142c48f" formatted="false">Import</string>
+    <string name="s_21ed7631f7" formatted="false">Import archive</string>
+    <string name="s_0fc07648fb" formatted="false">Import your own CBZ / ZIP archives.</string>
+    <string name="s_b17a203469" formatted="false">Use internal storage</string>
+    <string name="s_cb9da02d61" formatted="false">Stories await</string>
+    <string name="s_1417b7792d" formatted="false">History</string>
+    <string name="s_d0578b52b3" formatted="false">Sources</string>
+    <string name="s_5e7900198c" formatted="false">Catalogs are connected as data. No third-party executable code is installed.</string>
+    <string name="s_05f6c615a3" formatted="false">Categories</string>
+    <string name="s_68017cb2f3" formatted="false">Title categories</string>
+    <string name="s_58a52d4f41" formatted="false">Cache cleared</string>
+    <string name="s_7c3adaf305" formatted="false">Private tracking on this device</string>
+    <string name="s_1a9fb1f3cf" formatted="false">Back</string>
+    <string name="s_0918b4ba92" formatted="false">Name</string>
+    <string name="s_988a86d829" formatted="false">Category name</string>
+    <string name="s_3e529f15a9" formatted="false">Series title</string>
+    <string name="s_be6156b8e4" formatted="false">Search</string>
+    <string name="s_e66fd986d3" formatted="false">Search your library</string>
+    <string name="s_694b865d27" formatted="false">Reader settings</string>
+    <string name="s_261a3c336b" formatted="false">Do not record history</string>
+    <string name="s_1035dab6d4" formatted="false">Unread</string>
+    <string name="s_919bb5ac10" formatted="false">Could not open chapter</string>
+    <string name="s_382291938c" formatted="false">Unread only</string>
+    <string name="s_147aad6695" formatted="false">Unread count</string>
+    <string name="s_93f507e71b" formatted="false">Cannot access the selected folder</string>
+    <string name="s_1e01ce3487" formatted="false">New category</string>
+    <string name="s_f714934073" formatted="false">Updates</string>
+    <string name="s_73b7c2c0a0" formatted="false">New chapters for your stories</string>
+    <string name="s_c72424f153" formatted="false">New chapters will appear after your library updates.</string>
+    <string name="s_2b6e86887d" formatted="false">Number or title</string>
+    <string name="s_bd3a5be11e" formatted="false">Browse</string>
+    <string name="s_5f21ea3825" formatted="false">Refresh the title or import another archive.</string>
+    <string name="s_2b90f2bd69" formatted="false">Refresh library</string>
+    <string name="s_6b2db54280" formatted="false">Refresh chapters</string>
+    <string name="s_455471db0c" formatted="false">Updates</string>
+    <string name="s_3010aad614" formatted="false">One download at a time. Change the Wi-Fi restriction in settings.</string>
+    <string name="s_ed20074dee" formatted="false">Orientation</string>
+    <string name="s_1edb40f362" formatted="false">Open a chapter and your reading position will be saved automatically.</string>
+    <string name="s_7a15d34319" formatted="false">Discover</string>
+    <string name="s_53ae15f711" formatted="false">Open browse</string>
+    <string name="s_8fbe9b75cb" formatted="false">Cancel</string>
+    <string name="s_23a2a9bfcf" formatted="false">Canceled</string>
+    <string name="s_7c47f7292b" formatted="false">Cancel</string>
+    <string name="s_65b5e52949" formatted="false">Mark unread</string>
+    <string name="s_16f1b3f3f6" formatted="false">Mark read</string>
+    <string name="s_1731619efa" formatted="false">Appearance</string>
+    <string name="s_8965271d3c" formatted="false">Clear</string>
+    <string name="s_3f70f0ad67" formatted="false">Clear history</string>
+    <string name="s_612f11d6e1" formatted="false">Clear history?</string>
+    <string name="s_99d17b2076" formatted="false">Clear cache</string>
+    <string name="s_bf22dfeeba" formatted="false">Error</string>
+    <string name="s_9457715b5b" formatted="false">Device palette on Android 12+</string>
+    <string name="s_03025ca3d4" formatted="false">Folder for new downloads</string>
+    <string name="s_65530fd463" formatted="false">Pause</string>
+    <string name="s_fe5f710cb6" formatted="false">Continue to the next chapter</string>
+    <string name="s_6699e66a9a" formatted="false">By upload date</string>
+    <string name="s_ca87c21802" formatted="false">By title</string>
+    <string name="s_5189135a61" formatted="false">Retry</string>
+    <string name="s_3af435b32e" formatted="false">Connect</string>
+    <string name="s_6bd96c8158" formatted="false">Search titles</string>
+    <string name="s_b8b3c61669" formatted="false">Nothing found yet</string>
+    <string name="s_f42c392566" formatted="false">Fullscreen</string>
+    <string name="s_38aa441113" formatted="false">Portrait</string>
+    <string name="s_fb43611ea8" formatted="false">Last updated</string>
+    <string name="s_f504f1402a" formatted="false">Last read</string>
+    <string name="s_8b651b4d73" formatted="false">Latest updates</string>
+    <string name="s_57787002be" formatted="false">Privacy</string>
+    <string name="s_a2e4d7f911" formatted="false">About every 12 hours, subject to Android background limits</string>
+    <string name="s_6fb053a9e6" formatted="false">Paused</string>
+    <string name="s_c3e5abbc11" formatted="false">Check for new chapters</string>
+    <string name="s_7c8deb7c38" formatted="false">Chapter progress will be preserved.</string>
+    <string name="s_341768d7ff" formatted="false">Chapter progress is still saved</string>
+    <string name="s_d1022be088" formatted="false">Pick up where you left off</string>
+    <string name="s_a42aee58d6" formatted="false">Continue</string>
+    <string name="s_e6ce54e08e" formatted="false">Title details</string>
+    <string name="s_9982965bfe" formatted="false">Read chapter counts update automatically. Your journal is included in backups.</string>
+    <string name="s_1619e2c39e" formatted="false">Read</string>
+    <string name="s_3f53fb8734" formatted="false">Mode</string>
+    <string name="s_fb1d8b3098" formatted="false">Default reading mode</string>
+    <string name="s_9eb508eda2" formatted="false">Backup</string>
+    <string name="s_84e1a41151" formatted="false">Backup saved</string>
+    <string name="s_407f871778" formatted="false">Reset</string>
+    <string name="s_f0cd3a6033" formatted="false">Light</string>
+    <string name="s_3860f59770" formatted="false">System</string>
+    <string name="s_220c2796ee" formatted="false">System brightness</string>
+    <string name="s_0eb9e1880a" formatted="false">Download chapters from the title details to read without a connection.</string>
+    <string name="s_01e7f0ff3c" formatted="false">Downloaded chapters will be preserved</string>
+    <string name="s_348a16fd84" formatted="false">Downloaded pages and local archives are transferred separately. Mihon / Tachiyomi backups use a different format.</string>
+    <string name="s_1c3339bc59" formatted="false">Download chapter</string>
+    <string name="s_688e684cde" formatted="false">Left to right</string>
+    <string name="s_08c05789f5" formatted="false">Next</string>
+    <string name="s_209db96111" formatted="false">Next chapter</string>
+    <string name="s_416a333391" formatted="false">Your next story is just around the corner</string>
+    <string name="s_e0a2c89246" formatted="false">Create categories in your library.</string>
+    <string name="s_66d6d374ce" formatted="false">Sort</string>
+    <string name="s_b4d30cae52" formatted="false">Save</string>
+    <string name="s_fdeb49e5e1" formatted="false">A quiet space for reading</string>
+    <string name="s_6853cb8ec1" formatted="false">Right to left</string>
+    <string name="s_225077c6d4" formatted="false">Status</string>
+    <string name="s_694636dfe8" formatted="false">Page failed to load</string>
+    <string name="s_682f961a07" formatted="false">Theme</string>
+    <string name="s_df74439912" formatted="false">Wi-Fi only</string>
+    <string name="s_e81b23fc08" formatted="false">Tracking</string>
+    <string name="s_1eecfcaa7b" formatted="false">Dark</string>
+    <string name="s_16cad39e1d" formatted="false">Remove from library</string>
+    <string name="s_099a18f1cb" formatted="false">New chapter notifications</string>
+    <string name="s_be99b13612" formatted="false">Delete</string>
+    <string name="s_f1939135f4" formatted="false">Delete downloaded pages?</string>
+    <string name="s_d245fedd08" formatted="false">Delete download</string>
+    <string name="s_5f3a315499" formatted="false">Remove entry</string>
+    <string name="s_a69757b1db" formatted="false">Filters</string>
+    <string name="s_8fe048477d" formatted="false">Catalog filters</string>
+    <string name="s_06cc48aa35" formatted="false">Reader</string>
+    <string name="s_b39f2a07ba" formatted="false">Read</string>
+    <string name="s_d2ab5a1bb6" formatted="false">Export</string>
+    <string name="s_64433134d0" formatted="false">Export and restore your data</string>
+    <string name="s_94b0411574" formatted="false">Brightness</string>
+</resources>

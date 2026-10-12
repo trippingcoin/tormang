@@ -1,0 +1,22 @@
+pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
+dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS); repositories { google(); mavenCentral() } }
+rootProject.name = "Tormang"
+include(":core:common")
+include(":domain")
+include(":core:database")
+include(":core:network")
+include(":core:preferences")
+include(":core:designsystem")
+include(":core:ui")
+include(":data")
+include(":feature:library")
+include(":feature:browse")
+include(":feature:manga")
+include(":feature:reader")
+include(":feature:downloads")
+include(":feature:history")
+include(":feature:updates")
+include(":feature:settings")
+include(":feature:tracking")
+include(":feature:backup")
+include(":app")

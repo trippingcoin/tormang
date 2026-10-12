@@ -1,0 +1,175 @@
+<resources>
+    <string name="s_720a3fcc0b" formatted="false"> · Офлайн</string>
+    <string name="s_79e8d998c6" formatted="false">%.1f МБ</string>
+    <string name="s_e739f5005f" formatted="false">CC BY-NC 2.5 · Поиск по заголовку проверяет страницы каталога; по номеру — весь архив.</string>
+    <string name="s_53b2ed144f" formatted="false">HTTPS-ссылка на каталог издателя с лицензией и изображениями. Формат описан в README проекта.</string>
+    <string name="s_96f3f9cd8f" formatted="false">xkcd предоставляет последние выпуски. Рейтинги популярности и фильтры жанров в API отсутствуют.</string>
+    <string name="s_89c8997ebe" formatted="false">Автоматически к следующей главе</string>
+    <string name="s_42de3af6ab" formatted="false">Автоматическое обновление</string>
+    <string name="s_d34652d24c" formatted="false">Альбомная</string>
+    <string name="s_740adacfc2" formatted="false">Архив станет главой. Используйте одно название серии для нескольких глав.</string>
+    <string name="s_ff37c4c3bc" formatted="false">Без рекламы, аналитики и обязательного аккаунта. Сетевые запросы отправляются только выбранным источникам.</string>
+    <string name="s_d659e27ebe" formatted="false">Библиотека</string>
+    <string name="s_7af3cf32d3" formatted="false">Библиотека и уведомления</string>
+    <string name="s_2001daafb9" formatted="false">Библиотека, категории, история, позиции чтения, дневник, источники и настройки. Формат Tormang v1.</string>
+    <string name="s_d411b40c25" formatted="false">В библиотеку</string>
+    <string name="s_b22a2454bd" formatted="false">В очереди</string>
+    <string name="s_9c6fa10700" formatted="false">Ваш Tormang</string>
+    <string name="s_503949b8a6" formatted="false">Ваша история начнётся здесь</string>
+    <string name="s_ab4df6d460" formatted="false">Ваше место для хороших историй</string>
+    <string name="s_9a23163907" formatted="false">Ваши истории остаются с вами</string>
+    <string name="s_a7bc1e17bd" formatted="false">Вебтун</string>
+    <string name="s_265da16fcf" formatted="false">Вебтун · непрерывно</string>
+    <string name="s_b9ebbe5d3f" formatted="false">Вертикально</string>
+    <string name="s_f8122fe0b2" formatted="false">Вертикально · страницы</string>
+    <string name="s_3acc0c2ed7" formatted="false">Внутреннее хранилище приложения</string>
+    <string name="s_07c7b8b814" formatted="false">Возобновить</string>
+    <string name="s_81da75b754" formatted="false">Возьмите истории с собой</string>
+    <string name="s_76f55a988f" formatted="false">Восстановить</string>
+    <string name="s_96518ab209" formatted="false">Восстановить данные?</string>
+    <string name="s_7075d62db0" formatted="false">Вы ничего не пропустили</string>
+    <string name="s_ee2d903c84" formatted="false">Выбрать CBZ / ZIP</string>
+    <string name="s_9a6e498b21" formatted="false">Выбрать все</string>
+    <string name="s_84f415b543" formatted="false">Глав пока нет</string>
+    <string name="s_f8711e1f7f" formatted="false">Глава недоступна</string>
+    <string name="s_e81522110e" formatted="false">Глава прочитана</string>
+    <string name="s_461d03b039" formatted="false">Главы ↑</string>
+    <string name="s_1607f2f187" formatted="false">Главы ↓</string>
+    <string name="s_a1ebff5899" formatted="false">Горизонтально</string>
+    <string name="s_ef05d57959" formatted="false">Готово</string>
+    <string name="s_9b65313adf" formatted="false">Данные восстановлены</string>
+    <string name="s_c90dfb52ea" formatted="false">Дата добавления</string>
+    <string name="s_debaf6c069" formatted="false">Динамические цвета</string>
+    <string name="s_309dd1287b" formatted="false">Для новых заданий загрузки и фоновых обновлений</string>
+    <string name="s_bd7432a05f" formatted="false">Дневник чтения</string>
+    <string name="s_c24d5c13e8" formatted="false">Добавить каталог</string>
+    <string name="s_29173e392a" formatted="false">Добавьте произведение из каталога или импортируйте свои CBZ / ZIP.</string>
+    <string name="s_2071fb9905" formatted="false">Ещё</string>
+    <string name="s_7a28461e38" formatted="false">Жанр (оставьте пустым для всех)</string>
+    <string name="s_a137dd0ef7" formatted="false">Загрузить ещё</string>
+    <string name="s_111213e773" formatted="false">Загрузка</string>
+    <string name="s_737a6aa274" formatted="false">Загрузки</string>
+    <string name="s_fa125e56d9" formatted="false">Загрузки и хранилище</string>
+    <string name="s_a7a4033657" formatted="false">Закрыть</string>
+    <string name="s_04a18b51cd" formatted="false">Заметки</string>
+    <string name="s_e4c1d01c5c" formatted="false">Избранное</string>
+    <string name="s_7c7406202d" formatted="false">Измените запрос или просмотрите следующую страницу.</string>
+    <string name="s_4cd0366bdf" formatted="false">Изменить вид</string>
+    <string name="s_6e5142c48f" formatted="false">Импорт</string>
+    <string name="s_21ed7631f7" formatted="false">Импорт архива</string>
+    <string name="s_0fc07648fb" formatted="false">Импортируйте свои архивы CBZ / ZIP.</string>
+    <string name="s_b17a203469" formatted="false">Использовать внутреннее хранилище</string>
+    <string name="s_cb9da02d61" formatted="false">Истории ждут вас</string>
+    <string name="s_1417b7792d" formatted="false">История</string>
+    <string name="s_d0578b52b3" formatted="false">Источники</string>
+    <string name="s_5e7900198c" formatted="false">Каталоги подключаются как данные. Сторонний исполняемый код не устанавливается.</string>
+    <string name="s_05f6c615a3" formatted="false">Категории</string>
+    <string name="s_68017cb2f3" formatted="false">Категории произведения</string>
+    <string name="s_58a52d4f41" formatted="false">Кэш очищен</string>
+    <string name="s_7c3adaf305" formatted="false">Личный трекинг на устройстве</string>
+    <string name="s_1a9fb1f3cf" formatted="false">Назад</string>
+    <string name="s_0918b4ba92" formatted="false">Название</string>
+    <string name="s_988a86d829" formatted="false">Название категории</string>
+    <string name="s_3e529f15a9" formatted="false">Название серии</string>
+    <string name="s_be6156b8e4" formatted="false">Найти</string>
+    <string name="s_e66fd986d3" formatted="false">Найти в библиотеке</string>
+    <string name="s_694b865d27" formatted="false">Настройки чтения</string>
+    <string name="s_261a3c336b" formatted="false">Не записывать историю</string>
+    <string name="s_1035dab6d4" formatted="false">Не прочитано</string>
+    <string name="s_919bb5ac10" formatted="false">Не удалось открыть главу</string>
+    <string name="s_382291938c" formatted="false">Непрочитанное</string>
+    <string name="s_147aad6695" formatted="false">Непрочитанные</string>
+    <string name="s_93f507e71b" formatted="false">Нет доступа к выбранной папке</string>
+    <string name="s_1e01ce3487" formatted="false">Новая категория</string>
+    <string name="s_f714934073" formatted="false">Новинки</string>
+    <string name="s_73b7c2c0a0" formatted="false">Новые главы ваших историй</string>
+    <string name="s_c72424f153" formatted="false">Новые главы появятся здесь после обновления библиотеки.</string>
+    <string name="s_2b6e86887d" formatted="false">Номер или заголовок</string>
+    <string name="s_bd3a5be11e" formatted="false">Обзор</string>
+    <string name="s_5f21ea3825" formatted="false">Обновите произведение или импортируйте ещё один архив.</string>
+    <string name="s_2b90f2bd69" formatted="false">Обновить библиотеку</string>
+    <string name="s_6b2db54280" formatted="false">Обновить главы</string>
+    <string name="s_455471db0c" formatted="false">Обновления</string>
+    <string name="s_3010aad614" formatted="false">Одна загрузка за раз. Ограничение Wi-Fi меняется в настройках.</string>
+    <string name="s_ed20074dee" formatted="false">Ориентация</string>
+    <string name="s_1edb40f362" formatted="false">Откройте главу — позиция чтения сохранится автоматически.</string>
+    <string name="s_7a15d34319" formatted="false">Открывайте</string>
+    <string name="s_53ae15f711" formatted="false">Открыть обзор</string>
+    <string name="s_8fbe9b75cb" formatted="false">Отмена</string>
+    <string name="s_23a2a9bfcf" formatted="false">Отменено</string>
+    <string name="s_7c47f7292b" formatted="false">Отменить</string>
+    <string name="s_65b5e52949" formatted="false">Отметить непрочитанными</string>
+    <string name="s_16f1b3f3f6" formatted="false">Отметить прочитанными</string>
+    <string name="s_1731619efa" formatted="false">Оформление</string>
+    <string name="s_8965271d3c" formatted="false">Очистить</string>
+    <string name="s_3f70f0ad67" formatted="false">Очистить историю</string>
+    <string name="s_612f11d6e1" formatted="false">Очистить историю?</string>
+    <string name="s_99d17b2076" formatted="false">Очистить кэш</string>
+    <string name="s_bf22dfeeba" formatted="false">Ошибка</string>
+    <string name="s_9457715b5b" formatted="false">Палитра устройства на Android 12+</string>
+    <string name="s_03025ca3d4" formatted="false">Папка новых загрузок</string>
+    <string name="s_65530fd463" formatted="false">Пауза</string>
+    <string name="s_fe5f710cb6" formatted="false">Переход к следующей главе</string>
+    <string name="s_6699e66a9a" formatted="false">По дате публикации</string>
+    <string name="s_ca87c21802" formatted="false">По названию</string>
+    <string name="s_5189135a61" formatted="false">Повторить</string>
+    <string name="s_3af435b32e" formatted="false">Подключить</string>
+    <string name="s_6bd96c8158" formatted="false">Поиск произведений</string>
+    <string name="s_b8b3c61669" formatted="false">Пока ничего не найдено</string>
+    <string name="s_f42c392566" formatted="false">Полный экран</string>
+    <string name="s_38aa441113" formatted="false">Портретная</string>
+    <string name="s_fb43611ea8" formatted="false">Последнее обновление</string>
+    <string name="s_f504f1402a" formatted="false">Последнее чтение</string>
+    <string name="s_8b651b4d73" formatted="false">Последние обновления</string>
+    <string name="s_57787002be" formatted="false">Приватность</string>
+    <string name="s_a2e4d7f911" formatted="false">Примерно каждые 12 часов с учётом ограничений Android</string>
+    <string name="s_6fb053a9e6" formatted="false">Приостановлено</string>
+    <string name="s_c3e5abbc11" formatted="false">Проверить новые главы</string>
+    <string name="s_7c8deb7c38" formatted="false">Прогресс в главах сохранится.</string>
+    <string name="s_341768d7ff" formatted="false">Прогресс глав продолжит сохраняться</string>
+    <string name="s_d1022be088" formatted="false">Продолжайте с того места, где остановились</string>
+    <string name="s_a42aee58d6" formatted="false">Продолжить</string>
+    <string name="s_e6ce54e08e" formatted="false">Произведение</string>
+    <string name="s_9982965bfe" formatted="false">Прочитанные главы обновляются автоматически. Записи входят в резервную копию.</string>
+    <string name="s_1619e2c39e" formatted="false">Прочитано</string>
+    <string name="s_3f53fb8734" formatted="false">Режим</string>
+    <string name="s_fb1d8b3098" formatted="false">Режим по умолчанию</string>
+    <string name="s_9eb508eda2" formatted="false">Резервная копия</string>
+    <string name="s_84e1a41151" formatted="false">Резервная копия сохранена</string>
+    <string name="s_407f871778" formatted="false">Сбросить</string>
+    <string name="s_f0cd3a6033" formatted="false">Светлая</string>
+    <string name="s_3860f59770" formatted="false">Системная</string>
+    <string name="s_220c2796ee" formatted="false">Системная яркость</string>
+    <string name="s_0eb9e1880a" formatted="false">Скачайте главы на странице произведения, чтобы читать без сети.</string>
+    <string name="s_01e7f0ff3c" formatted="false">Скачанные главы сохранятся</string>
+    <string name="s_348a16fd84" formatted="false">Скачанные страницы и локальные архивы переносятся отдельно. Копии Mihon / Tachiyomi имеют другой формат.</string>
+    <string name="s_1c3339bc59" formatted="false">Скачать главу</string>
+    <string name="s_688e684cde" formatted="false">Слева направо</string>
+    <string name="s_08c05789f5" formatted="false">Следующая</string>
+    <string name="s_209db96111" formatted="false">Следующая глава</string>
+    <string name="s_416a333391" formatted="false">Следующая история — совсем рядом</string>
+    <string name="s_e0a2c89246" formatted="false">Создайте категории в библиотеке.</string>
+    <string name="s_66d6d374ce" formatted="false">Сортировка</string>
+    <string name="s_b4d30cae52" formatted="false">Сохранить</string>
+    <string name="s_fdeb49e5e1" formatted="false">Спокойное пространство для чтения</string>
+    <string name="s_6853cb8ec1" formatted="false">Справа налево</string>
+    <string name="s_225077c6d4" formatted="false">Статус</string>
+    <string name="s_694636dfe8" formatted="false">Страница не загрузилась</string>
+    <string name="s_682f961a07" formatted="false">Тема</string>
+    <string name="s_df74439912" formatted="false">Только Wi-Fi</string>
+    <string name="s_e81b23fc08" formatted="false">Трекинг</string>
+    <string name="s_1eecfcaa7b" formatted="false">Тёмная</string>
+    <string name="s_16cad39e1d" formatted="false">Убрать из библиотеки</string>
+    <string name="s_099a18f1cb" formatted="false">Уведомления о новых главах</string>
+    <string name="s_be99b13612" formatted="false">Удалить</string>
+    <string name="s_f1939135f4" formatted="false">Удалить загруженные страницы?</string>
+    <string name="s_d245fedd08" formatted="false">Удалить загрузку</string>
+    <string name="s_5f3a315499" formatted="false">Удалить запись</string>
+    <string name="s_a69757b1db" formatted="false">Фильтры</string>
+    <string name="s_8fe048477d" formatted="false">Фильтры каталога</string>
+    <string name="s_06cc48aa35" formatted="false">Читалка</string>
+    <string name="s_b39f2a07ba" formatted="false">Читать</string>
+    <string name="s_d2ab5a1bb6" formatted="false">Экспорт</string>
+    <string name="s_64433134d0" formatted="false">Экспорт и восстановление данных</string>
+    <string name="s_94b0411574" formatted="false">Яркость</string>
+</resources>

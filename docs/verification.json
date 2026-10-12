@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-09",
+  "environment": "macOS ARM64, JDK 17.0.6, Android 35 ARM64 emulator",
+  "results": [
+    {
+      "suite": "app.tormang.core.common.ArchiveTest",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "type": "JVM / Robolectric"
+    },
+    {
+      "suite": "app.tormang.core.database.DatabaseTest",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0,
+      "type": "JVM / Robolectric"
+    },
+    {
+      "suite": "app.tormang.data.DownloadTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "type": "JVM / Robolectric"
+    },
+    {
+      "suite": "app.tormang.data.RepositoryTest",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "type": "JVM / Robolectric"
+    },
+    {
+      "suite": "app.tormang.domain.DomainTest",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "type": "JVM / Robolectric"
+    },
+    {
+      "suite": "app.tormang.feature.library.LibraryViewModelTest",
+      "tests": 1,
+      "failures": 0,
+      "errors": 0,
+      "type": "JVM / Robolectric"
+    },
+    {
+      "suite": "Android 35: NavigationTest + OfflineReadingTest",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "type": "emulator ARM64"
+    }
+  ],
+  "total_tests": 36,
+  "failures": 0,
+  "apk_bytes": 19247151,
+  "apk_sha256": "cb15b17642a9d0c35e38ac82fc21c9ff098ba192b18b5bf320171b07fdd16e39"
+}
